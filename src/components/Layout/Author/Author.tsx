@@ -4,7 +4,7 @@ import Image, { FixedObject } from "gatsby-image";
 import { Link } from "gatsby";
 
 import { rhythm } from "../../../utils/typography";
-import { device } from "../../../styles/constants";
+import { device, colors } from "../../../styles/constants";
 import { useSiteMetadata, useAvatar } from "../../../hooks";
 
 const Author = (): React.ReactElement => {
@@ -47,6 +47,9 @@ const Root = styled.section`
   h5 {
     margin: 0;
     line-height: 1.5;
+    a {
+      color: ${colors.accentPeach};
+    }
   }
 `;
 

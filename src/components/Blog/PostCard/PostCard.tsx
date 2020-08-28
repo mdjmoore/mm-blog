@@ -4,6 +4,7 @@ import { Link } from "gatsby";
 import { GatsbyLocation } from "local-types";
 
 import { rhythm } from "../../../utils/typography";
+import { colors } from "../../../styles/constants";
 
 interface PostCardProps {
   title: string;
@@ -53,6 +54,9 @@ const Root = styled.section`
 
 const Title = styled.h3`
   margin: ${rhythm(1)} 0 0;
+  a {
+    color: ${colors.accentBlue};
+  }
 `;
 
 const ContentInfo = styled.span`

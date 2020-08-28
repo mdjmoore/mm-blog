@@ -107,7 +107,7 @@ const StyledNav = styled.nav``;
 
 const StyledLink = styled(Link)`
   margin-right: ${rhythm(1 / 2)};
-  color: ${colors.accentPeach};
+  color: ${colors.accentCoral};
 `;
 
 export default Header;
