@@ -67,7 +67,7 @@ const Root = styled.section`
 
 const Title = styled.h4`
   margin: ${rhythm(0.4)} 0 ${rhythm(0.4)};
-  color: ${({ theme }) => theme.colors.accentPeach};
+  color: ${({ theme }) => theme.colors.accentBlue};
 
   @media ${device.tablet} {
     height: ${rhythm(2)};
