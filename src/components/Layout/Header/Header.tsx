@@ -6,7 +6,7 @@ import { GatsbyLocation } from "local-types";
 
 import { rhythm, scale } from "../../../utils/typography";
 import { useSiteMetadata } from "../../../hooks";
-import { device } from "../../../styles/constants";
+import { device, colors } from "../../../styles/constants";
 
 export interface HeaderProps {
   showBackNav: boolean;
@@ -107,6 +107,7 @@ const StyledNav = styled.nav``;
 
 const StyledLink = styled(Link)`
   margin-right: ${rhythm(1 / 2)};
+  color: ${colors.accentPeach};
 `;
 
 export default Header;

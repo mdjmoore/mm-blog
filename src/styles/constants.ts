@@ -21,5 +21,9 @@ export const device = {
 
 export const colors = {
   lightGray: "#E6E6E9",
-  accent: "#48d6d2",
+  accentNavy: '#072448',
+  accentBlue: "#48d6d2",
+  accentCoral: '#ff6150',
+  accentPeach: '#f8aa4b',
+  accentYellow: '#ffcb00',
 };

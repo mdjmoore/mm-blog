@@ -2716,9 +2716,6 @@ export type SitePageFieldsEnum =
   | 'pluginCreator___pluginOptions___showCaptions'
   | 'pluginCreator___pluginOptions___wrapperStyle'
   | 'pluginCreator___pluginOptions___inlineCodeMarker'
-  | 'pluginCreator___pluginOptions___pathToConfigModule'
-  | 'pluginCreator___pluginOptions___dest'
-  | 'pluginCreator___pluginOptions___pathCheck'
   | 'pluginCreator___pluginOptions___short_name'
   | 'pluginCreator___pluginOptions___start_url'
   | 'pluginCreator___pluginOptions___background_color'
@@ -2730,6 +2727,9 @@ export type SitePageFieldsEnum =
   | 'pluginCreator___pluginOptions___legacy'
   | 'pluginCreator___pluginOptions___theme_color_in_head'
   | 'pluginCreator___pluginOptions___cacheDigest'
+  | 'pluginCreator___pluginOptions___pathToConfigModule'
+  | 'pluginCreator___pluginOptions___dest'
+  | 'pluginCreator___pluginOptions___pathCheck'
   | 'pluginCreator___nodeAPIs'
   | 'pluginCreator___browserAPIs'
   | 'pluginCreator___ssrAPIs'
@@ -2939,9 +2939,6 @@ export type SitePluginFieldsEnum =
   | 'pluginOptions___showCaptions'
   | 'pluginOptions___wrapperStyle'
   | 'pluginOptions___inlineCodeMarker'
-  | 'pluginOptions___pathToConfigModule'
-  | 'pluginOptions___dest'
-  | 'pluginOptions___pathCheck'
   | 'pluginOptions___short_name'
   | 'pluginOptions___start_url'
   | 'pluginOptions___background_color'
@@ -2953,6 +2950,9 @@ export type SitePluginFieldsEnum =
   | 'pluginOptions___legacy'
   | 'pluginOptions___theme_color_in_head'
   | 'pluginOptions___cacheDigest'
+  | 'pluginOptions___pathToConfigModule'
+  | 'pluginOptions___dest'
+  | 'pluginOptions___pathCheck'
   | 'nodeAPIs'
   | 'browserAPIs'
   | 'ssrAPIs'
@@ -3079,9 +3079,6 @@ export type SitePluginPluginOptions = {
   showCaptions?: Maybe<Scalars['Boolean']>;
   wrapperStyle?: Maybe<Scalars['String']>;
   inlineCodeMarker?: Maybe<Scalars['String']>;
-  pathToConfigModule?: Maybe<Scalars['String']>;
-  dest?: Maybe<Scalars['String']>;
-  pathCheck?: Maybe<Scalars['Boolean']>;
   short_name?: Maybe<Scalars['String']>;
   start_url?: Maybe<Scalars['String']>;
   background_color?: Maybe<Scalars['String']>;
@@ -3093,6 +3090,9 @@ export type SitePluginPluginOptions = {
   legacy?: Maybe<Scalars['Boolean']>;
   theme_color_in_head?: Maybe<Scalars['Boolean']>;
   cacheDigest?: Maybe<Scalars['String']>;
+  pathToConfigModule?: Maybe<Scalars['String']>;
+  dest?: Maybe<Scalars['String']>;
+  pathCheck?: Maybe<Scalars['Boolean']>;
 };
 
 export type SitePluginPluginOptionsFilterInput = {
@@ -3104,9 +3104,6 @@ export type SitePluginPluginOptionsFilterInput = {
   showCaptions?: Maybe<BooleanQueryOperatorInput>;
   wrapperStyle?: Maybe<StringQueryOperatorInput>;
   inlineCodeMarker?: Maybe<StringQueryOperatorInput>;
-  pathToConfigModule?: Maybe<StringQueryOperatorInput>;
-  dest?: Maybe<StringQueryOperatorInput>;
-  pathCheck?: Maybe<BooleanQueryOperatorInput>;
   short_name?: Maybe<StringQueryOperatorInput>;
   start_url?: Maybe<StringQueryOperatorInput>;
   background_color?: Maybe<StringQueryOperatorInput>;
@@ -3118,6 +3115,9 @@ export type SitePluginPluginOptionsFilterInput = {
   legacy?: Maybe<BooleanQueryOperatorInput>;
   theme_color_in_head?: Maybe<BooleanQueryOperatorInput>;
   cacheDigest?: Maybe<StringQueryOperatorInput>;
+  pathToConfigModule?: Maybe<StringQueryOperatorInput>;
+  dest?: Maybe<StringQueryOperatorInput>;
+  pathCheck?: Maybe<BooleanQueryOperatorInput>;
 };
 
 export type SitePluginPluginOptionsPlugins = {
