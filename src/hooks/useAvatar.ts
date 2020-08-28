@@ -13,7 +13,7 @@ const useAvatar = (props: UseAvatarProps): File => {
   const data: Query = useStaticQuery(
     graphql`
       query Avatar {
-        file(absolutePath: { regex: "/robertistok_avatar.jpeg/" }) {
+        file(absolutePath: { regex: "/slack-avatar.jpeg/" }) {
           childImageSharp {
             fixed(width: 1024, height: 1024) {
               ...GatsbyImageSharpFixed

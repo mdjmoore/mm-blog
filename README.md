@@ -2,6 +2,13 @@ _Example using the starter in production:_ [robertistok.com](https://www.roberti
 
 ---
 
+personal notes: 
+- color palette: https://colors.muz.li/palette/072448/54d2d2/ffcb00/f8aa4b/ff6150
+- need to get avatar and favicon
+- uses image sharp & gatsby images, any image file in any folder and it's referenced anywhere, it's avail through graphql. When graphql is generating data, you can ask for different versions of the file (jpeg, jpg, png, multiple dimensions) 
+- gonna start blogging soon! make some blogs! get blog post from medium 
+---
+
 ## Getting started
 
 1. Create a Gatsby site

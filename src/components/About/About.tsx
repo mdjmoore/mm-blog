@@ -25,23 +25,19 @@ const About: React.FunctionComponent<AboutProps> = ({
         <h4>Hey there my friend!</h4>
         <p>
           My name is {author.name}, and I am {yearsSince(author.birthDate)}{" "}
-          years old. I have a passion for products having constructive effects
-          on our lives, and I love to be involved in the development of
-          purposeful applications.
+          years old. I am a developer who loves to solve tricky problems and uplift those around me through mentorship.
         </p>
 
         <p>
-          I contribute to the product life cycle with my comprehensive skills in
-          web development, my growing knowledge of behavioral sciences and human
-          psychology, and my neverending hunger for growth.
+          I contribute to my teams through my comprehensive front end knowledge, my growing knowledge and comfort in back end development and my expert problem-solving and Googling skills.
         </p>
 
         <p>
-          When not building stuff, I love to explore, read fascinating books,
-          learn languages, write about my experiences in life, have amazing
-          dinners and meet interesting people. I am also obsessed with building
-          positive habits. I believe they are the keys to unlock our full
-          potential.
+          When not working I am most often found on or near the skate track, both playing and coaching roller derby. If I'm off skates, I'm coordinating the learn to skate program. If I'm not doing either of those, I'll be organizing and orchestrating our competitive season as the Vice President of Operations. 
+        </p>
+
+        <p>
+          I am occasionally not doing things related to roller derby. I am an avid reader of all types of media, with a special spot in my heart for fantasy and graphic novels. When not reading or writing, I'm teaching my dog to do a new trick (right now it's learning to jump through hoops). 
         </p>
 
         <p>

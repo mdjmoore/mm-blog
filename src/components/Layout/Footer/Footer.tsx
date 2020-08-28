@@ -8,7 +8,7 @@ const Footer: React.FunctionComponent = (): React.ReactElement => (
   <Root>
     <CTA>Reach out to me on your favorite social :)</CTA>
     <Social className="footer_social" />
-    <CopyRight>© 2019 robertistok</CopyRight>
+    <CopyRight>© 2019 Meagan Moore</CopyRight>
   </Root>
 );
 
@@ -35,7 +35,7 @@ const Root = styled.footer`
   .footer_social {
     align-self: center;
     grid-gap: 5px;
-    grid-template-columns: repeat(6, ${rhythm(1)});
+    grid-template-columns: repeat(4, ${rhythm(1)});
 
     svg {
       width: ${rhythm(1)};

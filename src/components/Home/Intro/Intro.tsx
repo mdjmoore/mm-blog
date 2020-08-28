@@ -10,7 +10,7 @@ import { device } from "../../../styles/constants";
 
 const Intro: React.FunctionComponent<{}> = (): React.ReactElement => {
   const { author } = useSiteMetadata();
-  const avatar = useAvatar({ width: 150, height: 150 });
+  const avatar = useAvatar({ width: 320, height: 320 });
 
   return (
     <Root>
@@ -20,7 +20,7 @@ const Intro: React.FunctionComponent<{}> = (): React.ReactElement => {
           alt={author.name}
         />
         <PitchContainer>
-          <Greeting>Hi, I&apos;m {author.firstname} 👋</Greeting>
+          <Greeting>Hi, I&apos;m <span>{author.firstname}</span> 👋</Greeting>
           <SubTitle>{author.title}</SubTitle>
           <Description>{author.descriptions.intro}</Description>
         </PitchContainer>
@@ -79,11 +79,16 @@ const Greeting = styled.h1`
   @media ${device.tablet} {
     ${scale(1)}
   }
+
+  span {
+    color: #48d6d2;
+  }
 `;
 
 const SubTitle = styled.h4`
   ${scale(-0.15)};
   margin-top: 0;
+  color: #f8aa4b;
 
   @media ${device.tablet} {
     margin-top: ${rhythm(1 / 4)};
@@ -114,7 +119,7 @@ const StyledImage = styled(Image)`
   justify-self: center;
   min-width: 150px;
   min-height: 150px;
-  border-radius: 50%;
+  border-radius: 100px 100px 100px 8px;
 
   @media ${device.tablet} {
     grid-row: auto;

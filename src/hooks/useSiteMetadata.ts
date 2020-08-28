@@ -24,12 +24,9 @@ const useSiteMetadata = (): SiteSiteMetadata => {
               username
               social {
                 email
-                medium
                 twitter
                 github
-                goodreads
                 linkedin
-                instagram
               }
             }
             description
