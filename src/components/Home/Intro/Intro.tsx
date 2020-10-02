@@ -10,7 +10,7 @@ import { device } from "../../../styles/constants";
 
 const Intro: React.FunctionComponent<{}> = (): React.ReactElement => {
   const { author } = useSiteMetadata();
-  const avatar = useAvatar({ width: 320, height: 320 });
+  const avatar = useAvatar({ width: 150, height: 150 });
 
   return (
     <Root>
