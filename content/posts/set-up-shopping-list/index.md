@@ -6,7 +6,7 @@ draft: false
 featured: false
 date: '2018-01-21T15:00:00.000Z'
 description: Everything I need to set up my machine on day one
-cover: ./set-up-shopping-list-cover.jpg
+cover: './set-up-shopping-list-cover.jpg'
 category: Test
 tags:
   - 'setup, tech'
