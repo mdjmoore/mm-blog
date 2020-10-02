@@ -1,16 +1,16 @@
 ---
-title: Set Up Shopping List
+title: "Set Up Shopping List"
 template: post
 slug: set-up-shopping-list
 draft: false
 featured: false
-date: '2018-01-21T15:00:00.000Z'
-description: Everything I need to set up my machine on day one
-cover: './set-up-shopping-list-cover.jpg'
+date: '2020-10-01T15:00:00.000Z'
+description: >-
+    Everything I need to set up my machine on day one
 category: Test
-tags:
-  - 'setup, tech'
+cover: './set-up-shopping-list-cover.jpg'
 ---
+
 Setting up a new work environment has always been a pain for me. My editor is perfectly tuned to my needs, my terminal is customized to be functional and beautiful, every extension, plugin and app I could need is installed and running smoothly. Then there's a hardware update (or a job update) and it's all gone as your laptop is returned to IT. Your new set up is okay, it's functional, but it's not as _precise_ as you're used to. 
 
 This list is not just for anyone interested in what I consider to be necessary for day to day work, but also for me in case I need to reinstall VSCode and can't remember which themes I love.
