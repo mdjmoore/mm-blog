@@ -7,7 +7,7 @@ featured: false
 date: "2018-01-21T15:00:00.000Z"
 description: >-
   Things I'm taking with me from the pastry kitchen
-cover: "./raccoons.jpg"
+cover: "./brooke-lark-rS26chimPaA-unsplash.jpg"
 category: Test
 tags:
   - raccoons
