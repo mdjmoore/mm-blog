@@ -58,7 +58,7 @@ const StyledImage = styled(Image)`
   justify-self: center;
   width: 50px;
   height: 50px;
-  border-radius: 50%;
+  border-radius: 100px 100px 100px 8px;
 
   @media ${device.tablet} {
     grid-row: auto;
