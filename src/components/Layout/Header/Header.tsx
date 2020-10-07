@@ -17,7 +17,7 @@ const Header: React.FunctionComponent<HeaderProps> = ({
   showBackNav = false,
   location,
 }): React.ReactElement => {
-  const { author } = useSiteMetadata();
+  const { title } = useSiteMetadata();
 
   return (
     <Root id="header-root">
@@ -40,7 +40,7 @@ const Header: React.FunctionComponent<HeaderProps> = ({
             {showBackNav ? (
               <FaArrowLeft />
             ) : (
-              author.social.twitter.toLowerCase()
+              title.toLowerCase()
             )}
           </Link>
         </Title>

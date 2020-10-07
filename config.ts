@@ -5,8 +5,8 @@ module.exports = {
       "Meagan lives and works in Toronto, Ontario. She's a software developer by day and a dog owner, roller derby coach and Vice President of a small business by night.",
     googleAnalyticsId: "",
     pathPrefix: "/",
-    siteUrl: "https://robertistok.com",
-    title: "Meagan Moore",
+    siteUrl: "https://meagan.dev",
+    title: "meagan.dev",
     author: {
       birthDate: new Date("1993-08-16"),
       firstname: "Meagan",
