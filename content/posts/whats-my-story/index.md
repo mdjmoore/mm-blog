@@ -31,7 +31,7 @@ I'm currently working remotely and even though I'm an out-going person, I've fou
 
 ## What about my free time?
 
-I have an energetic, playful and sometime vocal puppy named Innis (like the beer), so if I'm not at my desk, I'm taking him for a walk or playing fetch with him. Or teaching him to do some kind of silly trick. He mostly watches me work, his favourite spot during the day is to sit on the chair beside me and rest his chin on the desk. 
+I have an energetic, playful and sometime vocal puppy named Innis, so if I'm not at my desk, I'm taking him for a walk or playing fetch with him. Or teaching him to do some kind of silly trick. He mostly watches me work, his favourite spot during the day is to sit on the chair beside me and rest his chin on the desk. 
 
 When I'm not spoiling my dog, I'm reading or writing. I love fiction and fantasy with a soft spot for Neil Gaiman novels. Writing-wise, it's something I do for fun as I enjoyed English and Theatre a lot when I was younger. 
 

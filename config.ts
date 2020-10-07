@@ -24,7 +24,7 @@ module.exports = {
       resume: "Meagan_Moore_-_Software_Developer.pdf",
       username: "mdjmoore",
       social: {
-        email: "816moore@gmail.com",
+        email: "hello@meagan.dev",
         github: "mdjmoore",
         twitter: "_mdjm",
         linkedin: "meagan-moore-102533156",
