@@ -49,6 +49,7 @@ const Header: React.FunctionComponent<HeaderProps> = ({
             about
           </StyledLink>
           <StyledLink to="/blog">blog</StyledLink>
+          <StyledLink to="/resume">resume</StyledLink>
         </StyledNav>
       </StyledHeader>
     </Root>
