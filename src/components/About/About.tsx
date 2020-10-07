@@ -62,8 +62,7 @@ const Root = styled.div`
 
 const Avatar = styled(Image)`
   align-self: center;
-
-  border-radius: 50%;
+  border-radius: 100px 100px 100px 8px;
   width: 150px;
   height: 150px;
   justify-self: center;
