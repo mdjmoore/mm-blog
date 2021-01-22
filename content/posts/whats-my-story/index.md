@@ -23,7 +23,9 @@ Hopefully, this will give you a better understanding of the content I am going t
 
 I am a _27 year_ old Canadian based in Toronto_,_ **Ontario**.
 
-Most recently, I worked at [**Uberflip**](https://www.uberflip.com), a SaaS company building a content experience platform for B2B and B2C businesses.
+I current work as a web application developer at [**TWG**](https://twg.io/), a software development agency based in Toronto, Ontario, Canada. I'm currently working with React, Redux, TypeScript and Jest, though agency work is ever-changing. 
+
+Previously, I worked at [**Uberflip**](https://www.uberflip.com), a SaaS company building a content experience platform for B2B and B2C businesses.
 
 My main responsibility at Uberflip were developing our platform, using my skills as a fullstack developer to make the platform a joy to use. Currently I'm building in **React, GraphQL, SQL, TypeScript and PHP**, but have proficiency in **HTML, CSS and preprocessed CSS languages, Web Accessibility and jQuery.**
 
@@ -35,7 +37,7 @@ I have an energetic, playful and sometime vocal puppy named Innis, so if I'm not
 
 When I'm not spoiling my dog, I'm reading or writing. I love fiction and fantasy and have a soft spot for Neil Gaiman novels. It's important for me to have a creative outlet and writing fills that niche for me. I'm an avid reader and have recently switched to taking out books at the library in an attempt to save my back from having to move my personal library yet again. 
 
-I love to travel and do so whenever possible. I was lucky enough to travel extensively growing up so I have a huge fondness and respect for other cultures. At the top of my list for my next trip is Japan, but I had to revisit somewhere I would go back to Florence in a heartbeat. 
+I love to travel and do so whenever possible. I was lucky enough to travel extensively growing up so I have a huge fondness and respect for other cultures. At the top of my list for my next trip is Japan, but if I had to revisit somewhere I would go back to Florence in a heartbeat. 
 
 Outside of work I'm also an acitve athlete and volunteer with Toronto Roller Derby and can happily talk about roller derby for hours if given the opporutnity. I'm currently the Vice President of Operations and work closely with both our venue and practice space to ensure we have a roof over our heads during the season, and also coordinate the training program used by all new skaters within the league.
 
