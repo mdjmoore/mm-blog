@@ -10,7 +10,7 @@ const ResumePage: React.FunctionComponent = (): React.ReactElement => {
   // change the resume file  to yours
   const { file: resume }: { file: File } = useStaticQuery(graphql`
     {
-      file(name: { eq: "Meagan_Moore_-_Software_Developer" }) {
+      file(name: { eq: "Meagan_Moore_-_Software_Engineer.pdf" }) {
         publicURL
       }
     }

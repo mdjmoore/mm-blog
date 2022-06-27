@@ -21,7 +21,7 @@ module.exports = {
         icon: "/slack-avatar-icon.png",
         photo: "/slack-avatar.jpeg",
       },
-      resume: "Meagan_Moore_-_Software_Developer.pdf",
+      resume: "Meagan_Moore_-_Software_Engineer.pdf",
       username: "mdjmoore",
       social: {
         email: "hello@meagan.dev",
