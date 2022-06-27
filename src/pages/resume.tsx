@@ -27,7 +27,7 @@ const ResumePage: React.FunctionComponent = (): React.ReactElement => {
     <>
       <SEO
         title="Curriculum Vitae"
-        description={`Check out ${author.name}'s resume and feel free to drop him a message 🙏`}
+        description={`Check out ${author.name}'s resume and feel free to drop her a message 🙏`}
       />
       <DownloadURL
         href={resume.publicURL}

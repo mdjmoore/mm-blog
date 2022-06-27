@@ -5,7 +5,7 @@ slug: i-hate-chess
 draft: true
 featured: true
 date: '2021-01-22T15:00:00.000Z'
-description: Because I'm terrible at it, but I want to get better.
+description: 'Because I''m terrible at it, but I want to get better.'
 cover: ./piotr-makowski-EuAtvK05fqE-unsplash.jpg
 category: Personal
 tags:
